@@ -17,7 +17,7 @@ Prints the names of all clients:
 # ./wg-add
 ```
 
-Adds the client 'user' or outputs the QR code of its configuration file if it exists
+Adds the client 'user' or outputs the QR code of its configuration file if it exists:
 ```shell
 # ./wg-add user
 ```
